@@ -1,9 +1,9 @@
-import { Provider as BumbagProvider } from "bumbag";
-import Navbar from "./components/Navbar";
-import SearchForm from "./components/SearchForm";
+import { Provider as BumbagProvider } from 'bumbag';
+import Navbar from './components/Navbar';
+import SearchForm from './components/SearchForm';
 
-import "./App.css";
-import Footer from "./components/Footer";
+import './App.css';
+import Footer from './components/Footer';
 
 function App() {
   return (
